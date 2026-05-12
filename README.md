@@ -51,8 +51,8 @@ This project was created as part of my learning journey in:
 - Excel Dashboarding
 - Reporting & KPI visualization
 
-### Pictures
-<img width="537" height="657" alt="visualizations" src="https://github.com/user-attachments/assets/76eebee6-60c8-44aa-9b4d-55316cd4d382" />
+### Dashboard
+<img width="1422" height="651" alt="dash" src="https://github.com/user-attachments/assets/af78f6c9-cd6a-499d-a1c4-9f776020a36a" />
 
 ### 🚀 What I Learned
 Through this project I improved my skills in:
